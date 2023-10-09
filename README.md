@@ -7,10 +7,11 @@
 
 ## 리포지토리
 
-> - README.md
-> - ex 예시 코드
-> - week 주차별 참조 코드
-
+<pre><code>
+- README.md
+- ex 예시 코드
+- week 주차별 참조 코드
+</code></pre>
 
 ## 일정
 
