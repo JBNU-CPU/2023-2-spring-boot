@@ -11,7 +11,7 @@
   2023-2-spring-boot
     - README.md
     - ex 예시 코드
-    - week 주차별 참조 코드
+    - section 강좌별 참조 코드
 </code></pre>
 
 ## 일정
